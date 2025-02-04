@@ -1,7 +1,7 @@
 import { useFetchJson } from "../utils/util";
 
 export default function Home() {
-  const data = useFetchJson("/data/index.json");
+  const data = useFetchJson("/index.json");
   return (
     <div>
       <h1>Users</h1>
