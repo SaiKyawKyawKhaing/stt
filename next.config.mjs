@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output:"Export",
+  // output:"Export",
   reactStrictMode: true,
 };
 
